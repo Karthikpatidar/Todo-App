@@ -1,0 +1,14 @@
+.todo-style {
+    width: 250px;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-between;
+    align-items: center;
+    /* overflow: scroll; */
+}
+
+
+
+.todo-style li {
+    color: red;
+}
